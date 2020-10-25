@@ -25,5 +25,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
+---
+
+<img align="left" alt="SeamusX7's gitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SeamusX7&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/seamus-cummins/
