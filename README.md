@@ -1,10 +1,9 @@
-### Hi there, I'm Seamus - aka SeamusX7 👋
+### Hi there, I'm Séamus - aka SeamusX7 👋
 
-## I'm a Student, Developer and Technology enthusiast!
-- 🎓 I'm currently working on my final year college thesis!
-- 👩‍💻 I'm currently learning React Native.
-- 🥅 2020 Goal: Contribute more to the Stack Overflow community.
-- 🚴‍♂️ Fun fact: I love to cycle in my spare time.
+## I'm a Developer and Technology enthusiast!
+- 👩‍💻 I'm currently learning VueJS and Laravel.
+- 🥅 2022 Goal: Develop a broad range of technology skills through daily LaraBits.
+- 🏃‍♂️ Fun fact: I love to run in my spare time.
 
 ### Connect with me:
 
