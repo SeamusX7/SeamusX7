@@ -1,4 +1,4 @@
-### Hi there, I'm Séamus - aka SeamusX7 👋
+### Hi there, I'm Séamus 👋
 
 ## I'm a Developer and Technology enthusiast!
 - 👩‍💻 I'm currently learning VueJS and Laravel.
