@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Technology enthusiast!
 - 👩‍💻 I'm currently learning VueJS and Laravel.
-- 🥅 2022 Goal: Develop a broad range of technology skills through daily LaraBits.
+- 🥅 2023 Goal: Become a well-rounded frontend developer.
 - 🏃‍♂️ Fun fact: I love to run in my spare time.
 
 ### Connect with me:
